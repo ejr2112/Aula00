@@ -1,0 +1,9 @@
+{
+	"pdvs": [{
+		"pdvCodigo": "123",
+		"pdv": "Drogaria SP"
+	}, {
+		"pdvCodigo": "124",
+		"pdv": "Drogaria RS"
+	}]
+}
