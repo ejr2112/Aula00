@@ -1,9 +1,26 @@
 {
-	"pdvs": [{
-		"pdvCodigo": "123",
+	"pdvs": [
+	{
+		"pdvCodigo": "1",
 		"pdv": "Drogaria SP"
 	}, {
-		"pdvCodigo": "124",
+		"pdvCodigo": "2",
 		"pdv": "Drogaria RS"
-	}]
+	},
+	{
+		"pdvCodigo": "3",
+		"pdv": "Drogaria SP"
+	}, {
+		"pdvCodigo": "4",
+		"pdv": "Drogaria RJ"
+	},
+	{
+		"pdvCodigo": "5",
+		"pdv": "Drogaria OCO"
+	}, {
+		"pdvCodigo": "6",
+		"pdv": "Drogaria Nosso lar"
+	}	
+	
+	]
 }
